@@ -1,9 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Aryan Kohli. I love to code.
-I also edit videos.
+#### I code.
+Continuously Learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKohli88&show_icons=true&theme=radical)
+Skills: Node.js / JS / HTML / CSS
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aryan-kohli-00a594202//)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AryanKohli88)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://gpvc.arturio.dev/AryanKohli88)  
+
+
+
 <!--
 **AryanKohli88/AryanKohli88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
