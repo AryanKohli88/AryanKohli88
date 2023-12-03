@@ -14,6 +14,9 @@ Node.js / Express / JS / HTML / CSS
 ## We can talk about Pokemon :
  https://pokedex-b8sr.onrender.com
 
+## Watch some movies :
+https://recommend-me-a-movie.streamlit.app/
+
 # Checkout my work 👇
 
 
