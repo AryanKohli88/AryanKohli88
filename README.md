@@ -14,15 +14,6 @@ Node.js / Express / JS / HTML / CSS
 LinkedIn:  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aryan-kohli-00a594202/)  
 
-## We can talk about Pokemon :
- https://pokedex-b8sr.onrender.com
-
-## Watch some movies :
-https://recommend-me-a-movie.streamlit.app/
-
-# Checkout my work 👇
-
-
 
 <!--
 **AryanKohli88/AryanKohli88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
